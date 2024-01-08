@@ -1,0 +1,2 @@
+a = "BOMBACLAT"
+print(a)
